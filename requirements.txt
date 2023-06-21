@@ -1,0 +1,4 @@
+openai
+gradio
+llama-index
+pypdf
